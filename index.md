@@ -118,7 +118,7 @@ Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Bioscien
 
 <h2 id="general">General Information</h2>
 
-<strong>Registration:</strong> [Online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-genetic-and-population-health-sciences/igmm/fair-in-biological-practice)  
+<strong>Registration:</strong> [Online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-genetic-and-population-health-sciences/igc/fair-in-practice-nov-22)
 The course is free but there is a 50 pounds holding deposit refunded after attending the workshop.
 
 {% comment %}
