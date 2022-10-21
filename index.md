@@ -112,6 +112,8 @@ and hands-on lessons where you will use the approaches learned and implement som
 
 The course is aimed at active researchers in biomedicine science (PhD students, postdocs, technicians, young PIs etc.) who are interested in Open Science, FAIR (*Findable, Accessible, Interoperable and Reusable*) principles and efficient data management. This training is aimed at those who want to be familiar with these concepts and apply them throughout their project’s life cycle. The course is covered in four half days.
 
+Check the full content of the course at [FAIR-bio-practice](https://carpentries-incubator.github.io/fair-bio-practice/index.html)
+
 **Ed-DaSH**
 
 Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Biosciences. The [team](https://edcarp.github.io/Ed-DaSH/ed_dash_team.html) has developed workshops using [The Carpentries](https://carpentries.org/) platform on the following topics. See [workshops](https://edcarp.github.io/Ed-DaSH/workshops.html) for dates and registration details. All workshops will be delivered remotely.
